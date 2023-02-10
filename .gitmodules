@@ -1,0 +1,3 @@
+[submodule "Plugins/CleverAdsSolutions"]
+	path = Plugins/CleverAdsSolutions
+	url = git@github.com:cleveradssolutions/CAS-Unreal.git
