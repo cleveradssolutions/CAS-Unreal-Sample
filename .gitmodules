@@ -6,4 +6,4 @@
 	url = https://github.com/cleveradssolutions/CAS-Unreal.git
 [submodule "Sample_UE_5_4/Plugins/CleverAdsSolutions"]
 	path = Sample_UE_5_4/Plugins/CleverAdsSolutions
-	url = https://github.com/cleveradssolutions/CAS-Unreal
+	url = https://github.com/cleveradssolutions/CAS-Unreal.git
