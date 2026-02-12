@@ -1,12 +1,6 @@
-[submodule "Sample_UE_5_3/Plugins/CleverAdsSolutions"]
-	path = Sample_UE_5_3/Plugins/CleverAdsSolutions
-	url = https://github.com/cleveradssolutions/CAS-Unreal.git
 [submodule "Sample_UE_4_27/Plugins/CleverAdsSolutions"]
 	path = Sample_UE_4_27/Plugins/CleverAdsSolutions
 	url = https://github.com/cleveradssolutions/CAS-Unreal.git
-[submodule "Sample_UE_5_4/Plugins/CleverAdsSolutions"]
-	path = Sample_UE_5_4/Plugins/CleverAdsSolutions
-	url = https://github.com/cleveradssolutions/CAS-Unreal.git
-[submodule "Sample_UE_5_5/Plugins/CleverAdsSolutions"]
-	path = Sample_UE_5_5/Plugins/CleverAdsSolutions
+[submodule "Sample_UE_5/Plugins/CleverAdsSolutions"]
+	path = Sample_UE_5/Plugins/CleverAdsSolutions
 	url = https://github.com/cleveradssolutions/CAS-Unreal.git

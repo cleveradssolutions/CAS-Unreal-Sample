@@ -1,11 +1,11 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.4",
+	"EngineAssociation": "5.7",
 	"Category": "",
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "Sample_UE_5_4",
+			"Name": "Sample_UE_5",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
@@ -17,14 +17,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "CleverAdsSolutions",
-			"Enabled": true
 		}
-	],
-	"TargetPlatforms": [
-		"Android",
-		"IOS"
 	]
 }
